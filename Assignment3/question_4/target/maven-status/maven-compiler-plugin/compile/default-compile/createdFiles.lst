@@ -1,0 +1,11 @@
+com\mycompany\q4\JakartaRestConfiguration.class
+ejb\BookBeanLocal.class
+ejb\BookBean.class
+ejb\OrderBean.class
+entity\Orders.class
+com\mycompany\q4\resources\JakartaEE10Resource.class
+entity\Book.class
+servlets\BookServlet.class
+ejb\OrderBeanLocal.class
+entity\Orderdetails.class
+servlets\CustomerServlet.class

@@ -1,0 +1,8 @@
+ejb\CRUDBean.class
+entity\Category.class
+entity\Product.class
+com\mycompany\q3\JakartaRestConfiguration.class
+servlets\CategoryServlet.class
+servlets\ProductServlet.class
+com\mycompany\q3\resources\JakartaEE10Resource.class
+ejb\CRUDBeanLocal.class

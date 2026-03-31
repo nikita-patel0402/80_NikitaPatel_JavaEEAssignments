@@ -1,0 +1,7 @@
+servlets\ConvertServlet.class
+Entity\Currency.class
+ejb\CurrencyConverterBeanLocal.class
+ejb\CurrencyConverterBean.class
+Entity\Conversionrate.class
+com\mycompany\q1\JakartaRestConfiguration.class
+com\mycompany\q1\resources\JakartaEE10Resource.class
